@@ -13,19 +13,14 @@
 
 ## 🚀 Technology Stack
 
-  ### 💻 Programming
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+ 
+### 💻 Programming
+ Python • Java • C
 
-  ### 🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning
+ PyTorch • TensorFlow • Scikit-Learn • Transformers • RAG • NLP
 
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-  ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge)
-  ![RAG-Applications](https://img.shields.io/badge/RAG-Applications-blue?style=for-the-badge)
-  ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple?style=for-the-badge)
+
   
   ### 🧠 AI Domains
   `Machine Learning`
