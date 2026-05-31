@@ -1,4 +1,4 @@
-                                            ### Renuka Bashaboina ###
+                                        ### Renuka Bashaboina ###
 <img width="629" height="428" alt="image" src="https://github.com/user-attachments/assets/e6a9ecae-24d7-4a8c-a2bf-780ba43ec4e1" />
 
  Profile
@@ -41,4 +41,4 @@
 ## 🌍 Connect
 
 - 💼 LinkedIn:https://www.linkedin.com/in/bashaboina-renuka-0459472b4/
-- 🧩 LeetCode:https://github.com/BASHABOINARENUKA
+- 🧩 GitHub:https://github.com/BASHABOINARENUKA
