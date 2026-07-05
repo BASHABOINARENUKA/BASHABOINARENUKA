@@ -8,11 +8,10 @@
 </p>
 
 <p align="center">
-  
   <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-ENGINEER-008DD2?style=for-the-badge" alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-008DD2?style=for-the-badge" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/MACHINE%20LEARNING-ENTHUSIAST-008DD2?style=for-the-badge" alt="Machine Learning" />
 </p>
-
 ---
 
 # About Me
