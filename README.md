@@ -79,18 +79,29 @@ Computer vision-based retail analytics system using CCTV footage.
 
 `YOLO` `ByteTrack` `OpenCV` `FastAPI` `Streamlit`
 
+---
+
 ### Retrieval-Augmented Generation Application
 
 AI application that retrieves relevant information and generates context-aware answers.
 
 `RAG` `LLMs` `Embeddings` `Vector Database` `LangChain`
 
+---
+
+### Mental Health Classifier
+
+Machine learning-based classification system designed to analyze input data and predict mental health categories.
+
+`Machine Learning` `Python` `Scikit-Learn` `NLP` `Classification`
+
+---
+
 ### Full-Stack Quiz Platform
 
 End-to-end web application with frontend, backend, APIs, authentication and database integration.
 
 `React` `Node.js` `Express.js` `MongoDB`
-
 ---
 
 # GitHub Statistics
