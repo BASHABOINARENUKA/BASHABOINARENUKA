@@ -105,20 +105,7 @@ End-to-end web application with frontend, backend, APIs, authentication and data
 
 ---
 
-# GitHub Statistics
 
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=BASHABOINARENUKA&show_icons=true&theme=transparent&hide_border=true&title_color=00AEEF&icon_color=00AEEF&text_color=808080"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=BASHABOINARENUKA&theme=transparent&hide_border=true&ring=00AEEF&fire=00AEEF&currStreakLabel=00AEEF"
-  />
-</p>
-
----
 
 # Connect With Me
 
