@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BASHABOINARENUKA&label=PROFILE+VIEWS&color=008DD2&style=for-the-badge" alt="Profile Views" />
+  
   <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-ENGINEER-008DD2?style=for-the-badge" alt="AI Engineer" />
   <img src="https://img.shields.io/badge/MACHINE%20LEARNING-ENTHUSIAST-008DD2?style=for-the-badge" alt="Machine Learning" />
 </p>
