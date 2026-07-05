@@ -102,6 +102,7 @@ Machine learning-based classification system designed to analyze input data and 
 End-to-end web application with frontend, backend, APIs, authentication and database integration.
 
 `React` `Node.js` `Express.js` `MongoDB`
+
 ---
 
 # GitHub Statistics
