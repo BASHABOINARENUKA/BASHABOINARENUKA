@@ -36,8 +36,7 @@
 
 # Technology Stack
 
-## Programming Languages
-
+## Programming Languages 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
