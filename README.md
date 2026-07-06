@@ -26,7 +26,7 @@
 - B.Tech CSE (AI & ML), CBIT
 - CGPA: **9.61**
 - Focus: **Full Stack Development + AI**
-- Interested in **ML, DL, NLP, Generative AI and RAG**
+- Interested in **ML, DL, NLP, Generative AI and RAG Full Stack**
 - Building real-world applications using **APIs, AI and Machine Learning**
 - Goal: Apply technology and AI to solve real-world problems
 
